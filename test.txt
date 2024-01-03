@@ -1,8 +1,0 @@
-int function()
-{
-    the;
-    body;
-    of;
-    the;
-    function;
-}
