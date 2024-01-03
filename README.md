@@ -37,4 +37,5 @@ or
 commentator test.txt -o new.txt -m 5
 ```
 -o is the parameter for output file
+
 -m is the parameter for minimal number of symbols in line to comment
